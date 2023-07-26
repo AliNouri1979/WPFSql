@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFSql.DataAccess", "WPFSql.DataAccess\WPFSql.DataAccess.csproj", "{B0E73594-4C86-4554-9717-7F695D1BFF8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFSql.Repository", "WPFSql.Model\WPFSql.Repository.csproj", "{FB9C0320-8146-43D3-8A7F-AC47EC5ED3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFSql.Service", "WPFSql.Service\WPFSql.Service.csproj", "{4C2D1593-B1EF-4024-B42E-FAC3B55BBFF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFSql.UI", "WPFSql.UI\WPFSql.UI.csproj", "{5F7EE534-66C6-49AF-821B-589BAD91749E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E73594-4C86-4554-9717-7F695D1BFF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E73594-4C86-4554-9717-7F695D1BFF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E73594-4C86-4554-9717-7F695D1BFF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E73594-4C86-4554-9717-7F695D1BFF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9C0320-8146-43D3-8A7F-AC47EC5ED3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9C0320-8146-43D3-8A7F-AC47EC5ED3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9C0320-8146-43D3-8A7F-AC47EC5ED3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9C0320-8146-43D3-8A7F-AC47EC5ED3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2D1593-B1EF-4024-B42E-FAC3B55BBFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2D1593-B1EF-4024-B42E-FAC3B55BBFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2D1593-B1EF-4024-B42E-FAC3B55BBFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2D1593-B1EF-4024-B42E-FAC3B55BBFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7EE534-66C6-49AF-821B-589BAD91749E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7EE534-66C6-49AF-821B-589BAD91749E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7EE534-66C6-49AF-821B-589BAD91749E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7EE534-66C6-49AF-821B-589BAD91749E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B63274-6024-4C02-AA26-146D985ACF74}
+	EndGlobalSection
+EndGlobal
